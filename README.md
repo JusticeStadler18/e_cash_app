@@ -1,16 +1,10 @@
 # e_cash_app
 
-A new Flutter project.
+An e-Cash app created using Dart Language with Flutter SDK.
+This app demonstrates the Widgets: Slivers, Opacity, Drawer, Shadermask, Stack, CarouselSlider and DataTable.
 
-## Getting Started
+Disclaimer: The assets was used for educational purposes only.
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](docs/e_cash_app.mp4)
