@@ -7,4 +7,7 @@ This app demonstrates the Widgets: Slivers, Opacity, Drawer, Shadermask, Stack, 
 Disclaimer: The assets was used for educational purposes only.
 
 ## Preview
-![preview](docs/e_cash_app.mp4)
+
+https://user-images.githubusercontent.com/78299538/125435310-2f281517-0723-4b47-b9a0-79dcf3f1257e.mp4
+
+
