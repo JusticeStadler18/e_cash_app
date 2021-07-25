@@ -2,7 +2,14 @@
 
 An e-Cash app created using Dart Language with Flutter SDK.
 
-This app demonstrates the Widgets: Slivers, Opacity, Drawer, Shadermask, Stack, CarouselSlider and DataTable.
+This app demonstrates the Widgets:
+- Slivers
+- Opacity
+- Drawer
+- Shadermask
+- Stack
+- CarouselSlider
+- DataTable
 
 Disclaimer: The assets was used for educational purposes only.
 
